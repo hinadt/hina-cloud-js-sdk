@@ -1,5 +1,20 @@
 # hina-cloud-js-sdk
 
+## 4.0.2
+
+### Patch Changes
+
+- 移除了默认集成性能监控功能
+- 优化了上报数据逻辑
+
+### Major Changes
+
+- Updated dependencies
+  - hina-cloud-js-core@4.0.1
+  - hina-cloud-js-monitor@4.0.1
+  - hina-cloud-type@2.0.1
+  - hina-cloud-util@2.0.1
+
 ## 4.0.1
 
 ### Major Changes

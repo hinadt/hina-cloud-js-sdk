@@ -20,4 +20,4 @@
 
 | 推荐版本   | 版本链接                                                    |
 |--------|---------------------------------------------------------|
-| v4.0.1 | https://github.com/hinadt/hina-cloud-js-sdk/tree/v4.0.1 |
+| v4.0.2 | https://github.com/hinadt/hina-cloud-js-sdk/tree/v4.0.1 |
