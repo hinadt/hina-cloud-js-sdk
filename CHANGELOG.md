@@ -1,5 +1,12 @@
 # hina-cloud-js-sdk
 
+## 4.0.3
+
+### Patch Changes
+
+- 修复默认生成account_id问题
+- 添加用户登出方法cleanUserUId
+
 ## 4.0.2
 
 ### Patch Changes
@@ -7,7 +14,7 @@
 - 移除了默认集成性能监控功能
 - 优化了上报数据逻辑
 
-### Major Changes
+### Patch Changes
 
 - Updated dependencies
   - hina-cloud-js-core@4.0.1
