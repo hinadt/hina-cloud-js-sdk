@@ -1,5 +1,11 @@
 # hina-cloud-js-sdk
 
+## 4.0.5
+
+### Patch Changes
+
+- 优化SDK部分方法
+
 ## 4.0.3
 
 ### Patch Changes
